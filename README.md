@@ -16,14 +16,14 @@ Learn everything you need to about the subject of this `Tutorialspoint` project.
 ## Topics
 ```
 PostgreSQL Tutorial
-[ ] Home
-[ ] Overview
-[ ] Environment
-[ ] Syntax
-[ ] Data Types
-[ ] Create Database
-[ ] Select Database
-[ ] Drop Database
+[x] Home
+[x] Overview
+[x] Environment
+[x] Syntax
+[x] Data Types
+[x] Create Database
+[x] Select Database
+[x] Drop Database
 [ ] Create Table
 [ ] Drop Table
 [ ] Schema
