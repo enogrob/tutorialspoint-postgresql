@@ -24,7 +24,7 @@ PostgreSQL Tutorial
 [x] Create Database
 [x] Select Database
 [x] Drop Database
-[ ] Create Table
+[x] Create Table
 [ ] Drop Table
 [ ] Schema
 [ ] Insert Query
