@@ -28,7 +28,7 @@ PostgreSQL Tutorial
 [x] Drop Table
 [x] Schema
 [x] Insert Query
-[ ] Select Query
+[x] Select Query
 [ ] Operators
 [ ] Expressions
 [ ] Where Clause
