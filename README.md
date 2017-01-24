@@ -29,7 +29,7 @@ PostgreSQL Tutorial
 [x] Schema
 [x] Insert Query
 [x] Select Query
-[ ] Operators
+[x] Operators
 [ ] Expressions
 [ ] Where Clause
 [ ] AND & OR Clauses
