@@ -30,7 +30,7 @@ PostgreSQL Tutorial
 [x] Insert Query
 [x] Select Query
 [x] Operators
-[ ] Expressions
+[x] Expressions
 [ ] Where Clause
 [ ] AND & OR Clauses
 [ ] Update Query
