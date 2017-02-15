@@ -13,6 +13,7 @@ Learn everything you need to about the subject of this `Tutorialspoint` project.
 
 [Homepage](https://www.tutorialspoint.com//postgresql/index.htm)
 
+psql
 ## Topics
 ```
 PostgreSQL Tutorial
@@ -31,10 +32,10 @@ PostgreSQL Tutorial
 [x] Select Query
 [x] Operators
 [x] Expressions
-[ ] Where Clause
-[ ] AND & OR Clauses
-[ ] Update Query
-[ ] Delete Query
+[x] Where Clause
+[x] AND & OR Clauses
+[x] Update Query
+[x] Delete Query
 [ ] Like Clause
 [ ] Limit Clause
 [ ] Order By
